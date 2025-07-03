@@ -33,7 +33,8 @@ You did not bet on line 3.
 
 Spin Winnings : $25  
 Total Winnings : $25  
-Updated Balance : $115  
+Updated Balance : $115
+Change in Balance : $15
 ```
 
 ---
